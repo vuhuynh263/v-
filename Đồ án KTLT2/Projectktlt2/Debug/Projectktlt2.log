@@ -1,0 +1,6 @@
+﻿  PhieuMuon.cpp
+  Main.cpp
+c:\users\vuhuy\source\repos\projectktlt2\projectktlt2\main.cpp(58): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\vuhuy\source\repos\projectktlt2\projectktlt2\main.cpp(1281): warning C4101: 'luachon': unreferenced local variable
+c:\users\vuhuy\source\repos\projectktlt2\projectktlt2\main.cpp(1282): warning C4101: 'tien': unreferenced local variable
+  Projectktlt2.vcxproj -> C:\Users\vuhuy\source\repos\Projectktlt2\Debug\Projectktlt2.exe

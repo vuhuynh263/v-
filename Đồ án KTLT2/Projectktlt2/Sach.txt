@@ -1,0 +1,7 @@
+1F,Dragon Ball,Toriyama Akira,Kim Dong,3200,2005,140,10,2,2015,0
+7B,One Piece,Eiichiro Oda,Kim Dong,3200,2005,140,10,2,2015,0
+2T,Doraemon,Fujiko Fujio,Kim Dong,3200,2005,140,10,2,2015,0
+2J,Fairy Tail,Mashima Hiro,Kim Dong,3200,2005,140,10,2,2015,9
+3O,Bleach,Tite Kubo,Kim Dong,3200,2005,140,10,2,2015,1
+6U,Naruto,Kishimoto Masashi,Kim Dong,3200,2005,140,10,2,2015,9
+23L,Shingeki no Kyojin,Isayama Hajime,Kim Dong,3200,2005,140,10,2,2015,2
